@@ -1,0 +1,1712 @@
+[
+    {
+        "season_name": "2022/23",
+        "gameweek": "1",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "David",
+        "team_one_points": 40,
+        "team_two_points": 47
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "1",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Henri",
+        "team_one_points": 29,
+        "team_two_points": 35
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "1",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Chris",
+        "team_one_points": 45,
+        "team_two_points": 35
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "1",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Max",
+        "team_one_points": 39,
+        "team_two_points": 43
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "1",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Ian",
+        "team_one_points": 39,
+        "team_two_points": 54
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "2",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Marco",
+        "team_one_points": 31,
+        "team_two_points": 32
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "2",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Lennart",
+        "team_one_points": 49,
+        "team_two_points": 41
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "2",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Matt",
+        "team_one_points": 32,
+        "team_two_points": 48
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "2",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Benji",
+        "team_one_points": 17,
+        "team_two_points": 56
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "2",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Patrick",
+        "team_one_points": 35,
+        "team_two_points": 50
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "3",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "David",
+        "team_one_points": 18,
+        "team_two_points": 54
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "3",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Patrick",
+        "team_one_points": 44,
+        "team_two_points": 43
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "3",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Henri",
+        "team_one_points": 47,
+        "team_two_points": 47
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "3",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Chris",
+        "team_one_points": 41,
+        "team_two_points": 42
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "3",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Max",
+        "team_one_points": 40,
+        "team_two_points": 30
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "4",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Ian",
+        "team_one_points": 71,
+        "team_two_points": 22
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "4",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Marco",
+        "team_one_points": 55,
+        "team_two_points": 46
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "4",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Lennart",
+        "team_one_points": 57,
+        "team_two_points": 68
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "4",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Matt",
+        "team_one_points": 36,
+        "team_two_points": 34
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "4",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "Benji",
+        "team_one_points": 44,
+        "team_two_points": 29
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "5",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "David",
+        "team_one_points": 35,
+        "team_two_points": 30
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "5",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Benji",
+        "team_one_points": 42,
+        "team_two_points": 40
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "5",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Patrick",
+        "team_one_points": 37,
+        "team_two_points": 34
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "5",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Henri",
+        "team_one_points": 22,
+        "team_two_points": 44
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "5",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Chris",
+        "team_one_points": 34,
+        "team_two_points": 53
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "6",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Max",
+        "team_one_points": 28,
+        "team_two_points": 27
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "6",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Ian",
+        "team_one_points": 39,
+        "team_two_points": 42
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "6",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Marco",
+        "team_one_points": 30,
+        "team_two_points": 30
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "6",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "Lennart",
+        "team_one_points": 63,
+        "team_two_points": 47
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "6",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Matt",
+        "team_one_points": 35,
+        "team_two_points": 56
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "7",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "7",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "7",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "7",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "7",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "8",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Chris",
+        "team_one_points": 20,
+        "team_two_points": 31
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "8",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Max",
+        "team_one_points": 25,
+        "team_two_points": 31
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "8",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "Ian",
+        "team_one_points": 41,
+        "team_two_points": 43
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "8",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Marco",
+        "team_one_points": 24,
+        "team_two_points": 39
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "8",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Lennart",
+        "team_one_points": 42,
+        "team_two_points": 8
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "9",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "David",
+        "team_one_points": 37,
+        "team_two_points": 35
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "9",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "Chris",
+        "team_one_points": 28,
+        "team_two_points": 54
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "9",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Max",
+        "team_one_points": 23,
+        "team_two_points": 35
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "9",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Ian",
+        "team_one_points": 33,
+        "team_two_points": 69
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "9",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Marco",
+        "team_one_points": 38,
+        "team_two_points": 39
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "10",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "David",
+        "team_one_points": 44,
+        "team_two_points": 23
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "10",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Henri",
+        "team_one_points": 23,
+        "team_two_points": 49
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "10",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Chris",
+        "team_one_points": 59,
+        "team_two_points": 48
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "10",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Max",
+        "team_one_points": 21,
+        "team_two_points": 46
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "10",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Ian",
+        "team_one_points": 62,
+        "team_two_points": 55
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "11",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Marco",
+        "team_one_points": 35,
+        "team_two_points": 35
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "11",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Lennart",
+        "team_one_points": 48,
+        "team_two_points": 58
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "11",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Matt",
+        "team_one_points": 35,
+        "team_two_points": 32
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "11",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Benji",
+        "team_one_points": 28,
+        "team_two_points": 35
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "11",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Patrick",
+        "team_one_points": 43,
+        "team_two_points": 68
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "12",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "David",
+        "team_one_points": 36,
+        "team_two_points": 37
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "12",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Patrick",
+        "team_one_points": 31,
+        "team_two_points": 29
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "12",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Henri",
+        "team_one_points": 36,
+        "team_two_points": 23
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "12",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Chris",
+        "team_one_points": 59,
+        "team_two_points": 26
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "12",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Max",
+        "team_one_points": 42,
+        "team_two_points": 35
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "13",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Ian",
+        "team_one_points": 47,
+        "team_two_points": 31
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "13",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Marco",
+        "team_one_points": 37,
+        "team_two_points": 45
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "13",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Lennart",
+        "team_one_points": 61,
+        "team_two_points": 49
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "13",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Matt",
+        "team_one_points": 35,
+        "team_two_points": 41
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "13",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "Benji",
+        "team_one_points": 43,
+        "team_two_points": 20
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "14",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "David",
+        "team_one_points": 41,
+        "team_two_points": 37
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "14",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Benji",
+        "team_one_points": 40,
+        "team_two_points": 52
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "14",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Patrick",
+        "team_one_points": 51,
+        "team_two_points": 38
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "14",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Henri",
+        "team_one_points": 32,
+        "team_two_points": 60
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "14",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Chris",
+        "team_one_points": 38,
+        "team_two_points": 41
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "15",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Max",
+        "team_one_points": 39,
+        "team_two_points": 50
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "15",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Ian",
+        "team_one_points": 17,
+        "team_two_points": 31
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "15",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Marco",
+        "team_one_points": 30,
+        "team_two_points": 50
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "15",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "Lennart",
+        "team_one_points": 40,
+        "team_two_points": 47
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "15",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Matt",
+        "team_one_points": 22,
+        "team_two_points": 49
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "16",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "David",
+        "team_one_points": 32,
+        "team_two_points": 41
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "16",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Matt",
+        "team_one_points": 55,
+        "team_two_points": 31
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "16",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Benji",
+        "team_one_points": 60,
+        "team_two_points": 38
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "16",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Patrick",
+        "team_one_points": 21,
+        "team_two_points": 59
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "16",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Henri",
+        "team_one_points": 45,
+        "team_two_points": 27
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "17",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Chris",
+        "team_one_points": 46,
+        "team_two_points": 37
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "17",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Max",
+        "team_one_points": 55,
+        "team_two_points": 52
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "17",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "Ian",
+        "team_one_points": 64,
+        "team_two_points": 24
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "17",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Marco",
+        "team_one_points": 25,
+        "team_two_points": 40
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "17",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Lennart",
+        "team_one_points": 39,
+        "team_two_points": 42
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "18",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "David",
+        "team_one_points": 30,
+        "team_two_points": 42
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "18",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "Chris",
+        "team_one_points": 25,
+        "team_two_points": 22
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "18",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Max",
+        "team_one_points": 44,
+        "team_two_points": 43
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "18",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Ian",
+        "team_one_points": 31,
+        "team_two_points": 49
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "18",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Marco",
+        "team_one_points": 22,
+        "team_two_points": 45
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "19",
+        "completed": true,
+        "team_one": "Patrick",
+        "team_two": "David",
+        "team_one_points": 54,
+        "team_two_points": 33
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "19",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "Henri",
+        "team_one_points": 47,
+        "team_two_points": 37
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "19",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Chris",
+        "team_one_points": 71,
+        "team_two_points": 47
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "19",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Max",
+        "team_one_points": 43,
+        "team_two_points": 55
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "19",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Ian",
+        "team_one_points": 30,
+        "team_two_points": 70
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "20",
+        "completed": true,
+        "team_one": "David",
+        "team_two": "Marco",
+        "team_one_points": 47,
+        "team_two_points": 29
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "20",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Lennart",
+        "team_one_points": 48,
+        "team_two_points": 42
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "20",
+        "completed": true,
+        "team_one": "Max",
+        "team_two": "Matt",
+        "team_one_points": 58,
+        "team_two_points": 53
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "20",
+        "completed": true,
+        "team_one": "Chris",
+        "team_two": "Benji",
+        "team_one_points": 57,
+        "team_two_points": 74
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "20",
+        "completed": true,
+        "team_one": "Henri",
+        "team_two": "Patrick",
+        "team_one_points": 31,
+        "team_two_points": 44
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "21",
+        "completed": true,
+        "team_one": "Benji",
+        "team_two": "David",
+        "team_one_points": 36,
+        "team_two_points": 24
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "21",
+        "completed": true,
+        "team_one": "Matt",
+        "team_two": "Patrick",
+        "team_one_points": 51,
+        "team_two_points": 37
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "21",
+        "completed": true,
+        "team_one": "Lennart",
+        "team_two": "Henri",
+        "team_one_points": 40,
+        "team_two_points": 44
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "21",
+        "completed": true,
+        "team_one": "Marco",
+        "team_two": "Chris",
+        "team_one_points": 48,
+        "team_two_points": 75
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "21",
+        "completed": true,
+        "team_one": "Ian",
+        "team_two": "Max",
+        "team_one_points": 31,
+        "team_two_points": 29
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "22",
+        "completed": false,
+        "team_one": "David",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "22",
+        "completed": false,
+        "team_one": "Max",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "22",
+        "completed": false,
+        "team_one": "Chris",
+        "team_two": "Lennart",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "22",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "22",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "23",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "23",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "23",
+        "completed": false,
+        "team_one": "Marco",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "23",
+        "completed": false,
+        "team_one": "Ian",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "23",
+        "completed": false,
+        "team_one": "Max",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "24",
+        "completed": false,
+        "team_one": "David",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "24",
+        "completed": false,
+        "team_one": "Chris",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "24",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "24",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "Lennart",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "24",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "25",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "25",
+        "completed": false,
+        "team_one": "Marco",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "25",
+        "completed": false,
+        "team_one": "Ian",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "25",
+        "completed": false,
+        "team_one": "Max",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "25",
+        "completed": false,
+        "team_one": "Chris",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "26",
+        "completed": false,
+        "team_one": "David",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "26",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "26",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "26",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "26",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "Lennart",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "27",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "27",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "27",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "27",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "27",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "28",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "28",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "28",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "28",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "28",
+        "completed": false,
+        "team_one": "Marco",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "29",
+        "completed": false,
+        "team_one": "David",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "29",
+        "completed": false,
+        "team_one": "Ian",
+        "team_two": "Lennart",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "29",
+        "completed": false,
+        "team_one": "Max",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "29",
+        "completed": false,
+        "team_one": "Chris",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "29",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "30",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "30",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "30",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "30",
+        "completed": false,
+        "team_one": "Marco",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "30",
+        "completed": false,
+        "team_one": "Ian",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "31",
+        "completed": false,
+        "team_one": "David",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "31",
+        "completed": false,
+        "team_one": "Max",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "31",
+        "completed": false,
+        "team_one": "Chris",
+        "team_two": "Lennart",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "31",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "31",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "32",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "32",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "32",
+        "completed": false,
+        "team_one": "Marco",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "32",
+        "completed": false,
+        "team_one": "Ian",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "32",
+        "completed": false,
+        "team_one": "Max",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "33",
+        "completed": false,
+        "team_one": "David",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "33",
+        "completed": false,
+        "team_one": "Chris",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "33",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "33",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "Lennart",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "33",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "34",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "34",
+        "completed": false,
+        "team_one": "Marco",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "34",
+        "completed": false,
+        "team_one": "Ian",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "34",
+        "completed": false,
+        "team_one": "Max",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "34",
+        "completed": false,
+        "team_one": "Chris",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "35",
+        "completed": false,
+        "team_one": "David",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "35",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "35",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "35",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "35",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "Lennart",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "36",
+        "completed": false,
+        "team_one": "Patrick",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "36",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "36",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "36",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "36",
+        "completed": false,
+        "team_one": "Marco",
+        "team_two": "Ian",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "37",
+        "completed": false,
+        "team_one": "David",
+        "team_two": "Marco",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "37",
+        "completed": false,
+        "team_one": "Ian",
+        "team_two": "Lennart",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "37",
+        "completed": false,
+        "team_one": "Max",
+        "team_two": "Matt",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "37",
+        "completed": false,
+        "team_one": "Chris",
+        "team_two": "Benji",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "37",
+        "completed": false,
+        "team_one": "Henri",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "38",
+        "completed": false,
+        "team_one": "Benji",
+        "team_two": "David",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "38",
+        "completed": false,
+        "team_one": "Matt",
+        "team_two": "Patrick",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "38",
+        "completed": false,
+        "team_one": "Lennart",
+        "team_two": "Henri",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "38",
+        "completed": false,
+        "team_one": "Marco",
+        "team_two": "Chris",
+        "team_one_points": 0,
+        "team_two_points": 0
+    },
+    {
+        "season_name": "2022/23",
+        "gameweek": "38",
+        "completed": false,
+        "team_one": "Ian",
+        "team_two": "Max",
+        "team_one_points": 0,
+        "team_two_points": 0
+    }
+]

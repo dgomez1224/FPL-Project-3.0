@@ -36,4 +36,4 @@ lerna-debug.log*
 
 # local env files
 .env
-
+.DS_Store

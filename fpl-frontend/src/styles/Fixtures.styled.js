@@ -39,11 +39,11 @@ export const StyledFixtureList = styled.table`
 
 export const StyledTableRow = styled.tr`
   background-color: ${props => 
-    props.result === 'win' 
+    props.result === 'WIN' 
     ? 'green'
-    : props.result === 'draw' 
+    : props.result === 'DRAW' 
     ? 'gray'
-    : props.result === 'loss' 
+    : props.result === 'LOSS' 
     ? 'red'
     : 'white'};
   color: black;

@@ -1,6 +1,6 @@
 import { Module } from '@nestjs/common';
 import { ConfigModule, ConfigService } from '@nestjs/config';
-import { AppController } from './app.controller';
+import { AppController, DetailsController, FixturesController, StandingsController } from './app.controller';
 import { AppService } from './app.service';
 import { FixturesModule } from './fixtures/fixtures.module';
 import { TypeOrmModule } from '@nestjs/typeorm';
@@ -21,7 +21,7 @@ import { Fixture } from './fixtures/entities/fixture.entity';
       }),
       inject: [ConfigService]
   }), ConfigModule, ConfigModule.forRoot({ envFilePath: ['.env']}), FixturesModule],
-  controllers: [AppController],
+  controllers: [AppController, StandingsController, FixturesController, DetailsController],
   providers: [AppService],
 })
 export class AppModule {}

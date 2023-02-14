@@ -7,21 +7,9 @@ export default function FindFixture() {
   const [fixtures, setFixtures] = useState([]);
   const [loading, setLoading] = useState(true);
   const [managerDetails, setManagerDetails] = useState([])
-  const options = [
-    "All",
-    "Benji",
-    "Chris",
-    "David",
-    "Henri",
-    "Ian",
-    "Lennart",
-    "Matt",
-    "Marco",
-    "Max",
-    "Patrick",
-  ];
+  const [options, setOptions] = useState(["All"]);
 
-  const [selectedOption, setSelectedOption] = useState(options[0]);
+  const [selectedOption, setSelectedOption] = useState("options[0]");
   const findId = (name, arr) => {
  
     for (let entry of arr) {
@@ -48,13 +36,21 @@ export default function FindFixture() {
   
   useEffect(() => {
 
+    const setNames = async(json) => {
+      const options = ["All", ...json.league_entries.map((entry) => entry.player_first_name)];
+      setOptions(options);
+      console.log("options", options);
+    }
+
     const findManagerDetails = async() => {
       let path = "/details";
       setLoading(true);
 
       const res = await fetch(process.env.NEXT_PUBLIC_API_URL + path);
       const json = await res.json();
+      
       setManagerDetails(json.league_entries)
+      setNames(json)
     }
     findManagerDetails()
   }, [])

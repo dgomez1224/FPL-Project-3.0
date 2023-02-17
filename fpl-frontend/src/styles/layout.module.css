@@ -1,10 +1,30 @@
-.layout {
-    width: 300px;
-    margin: 20px;
+@import url('../styles/fonts.css');
+
+.screen a {
+    display: contents;
+    text-decoration: none;
 }
 
-.title {
-    text-align: center;
-    font-size: 24px;
-    margin: 10px;
+.container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+}
+
+.container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+}
+
+.homepage {
+    align-items: center;
+    background-color: aliceblue;
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 800px;
+    width: 1368px;
 }

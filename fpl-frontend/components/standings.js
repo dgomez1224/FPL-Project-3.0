@@ -1,4 +1,5 @@
 import { StyledFixtureList } from "@/styles/Fixtures.styled";
+import { CHART1, LINEITEM1, LISTITEMS1, OverlapGroup, STANDINGS, Title } from "@/styles/Homepage.styled";
 import { useEffect, useState } from "react";
 import StandingTable from "./standings-list";
 
@@ -47,12 +48,35 @@ export default function GetStandings() {
 
  
     return (
-      <>
-        <h1>Standings</h1>
-        <div>
-          <StandingTable standings={standings}  loading={loading}/>
-        </div>
-      </>
+      <STANDINGS>
+        <OverlapGroup>
+          <Title>Standings</Title>
+        </OverlapGroup>
+        <CHART1>
+          <LISTITEMS1>
+            <LINEITEM1>
+            <td>Rank</td>
+                <td>Manager</td>
+                <td>W</td>
+                <td>D</td>
+                <td>L</td>
+                <td>+</td>
+                <td>PTS</td>
+            </LINEITEM1>
+            {standings.map((fixture, index) => (
+              <LINEITEM1 key = {index}>
+                <td>{fixture.rank}</td>
+                <td>{fixture.first_name}</td>
+                <td>{fixture.matches_won}</td>
+                <td>{fixture.matches_drawn}</td>
+                <td>{fixture.matches_lost}</td>
+                <td>{fixture.points_for}</td>
+                <td>{fixture.total}</td>
+              </LINEITEM1>
+            ))}
+          </LISTITEMS1>
+        </CHART1>
+      </STANDINGS>
     );
  
 

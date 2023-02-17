@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled, {css}  from "styled-components";
 
 const handleColorType = (color) => {
   switch (color) {
@@ -53,3 +53,4 @@ export const StyledStandingsRow = styled.tr`
     background-color: white;
     color: black'
 `
+

@@ -12,10 +12,7 @@ export default function Home() {
         <meta name="description" content="FPL Webpage" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Layout>
-        <FindFixture />
-        <GetStandings/>
-      </Layout>
+      <Layout />
     </div>
   )
 }
